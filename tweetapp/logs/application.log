@@ -1,0 +1,5 @@
+02-06-2022 21:14:51.032 [restartedMain] INFO  com.tweetapp.TweetappApplication.logStarting - Starting TweetappApplication using Java 17.0.2 on DESKTOP-GNUFN6D with PID 4856 (C:\Users\mjrah\Documents\Cognizant fse1\demo\component3\component2 (2)\component2\target\classes started by mjrah in C:\Users\mjrah\Documents\Cognizant fse1\demo\component3\component2 (2)\component2)
+02-06-2022 21:14:51.034 [restartedMain] INFO  com.tweetapp.TweetappApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+02-06-2022 21:14:57.050 [restartedMain] INFO  com.tweetapp.TweetappApplication.logStarted - Started TweetappApplication in 6.551 seconds (JVM running for 7.205)
+02-06-2022 21:17:32.871 [http-nio-8080-exec-8] INFO  com.tweetapp.kafka.Producer.sendMessage - Kafka Producer: test kafka 2
+02-06-2022 21:17:33.009 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.tweetapp.kafka.Consumer.consume - Kafka Consumer:test kafka 2
