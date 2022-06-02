@@ -92,6 +92,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>tweetAppService</finalName>
 	</build>
 
 </project>
